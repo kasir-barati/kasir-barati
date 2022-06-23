@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-  - AngularJS
+- 🔭 I’m currently working on myself and my skills
+- 🌱 I’m obsessivly in learning mode:
+  - Angular
   - Blockchain and its family
   - Nginx and Traefik
-- 👯 I’m looking to collaborate on ...
+  - Python
+  - Django
+  - C++
+- 👯 I’m looking to collaborate on a project in areas where I am studying
 - 🤔 I’m looking for help with getting a job offer from a company based in Germany. Please contact me if you can help me with it
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
@@ -19,5 +22,8 @@
   - LinkedIn [kasir-barati](https://www.linkedin.com/in/kasir-barati/)
   - Twitter [kasir_barati](https://twitter.com/kasir_barati)
   - Stackoverflow [kasir-barati](https://stackoverflow.com/users/8784518/kasir-barati)
+  - Mail:
+    - Work: [kasir[dot]barati[at]gmail[dot]com](mailto:kasir.barati@gmail.com)
+    - Personal [m[dot]jawad[dot]b[dot]khorasani[at]gmail[dot]com](mailto:m.jawad.b.khorasani@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Seeking Importality and being like a God.
