@@ -2,19 +2,16 @@
 
 - 🔭 I’m currently working on myself and my skills
 - 🌱 I’m obsessivly in learning mode:
-  - Angular
   - Blockchain and its family
   - Nginx and Traefik
-  - Python
-  - Django
   - C++
 - 👯 I’m looking to collaborate on a project in areas where I am studying
 - 🤔 I’m looking for help with getting a job offer from a company based in Germany. Please contact me if you can help me with it
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
-  - 🐘 PostgreSQL, 🍃 MongoDB
-  - NestJS, AngularJS
-  - JS/TS
+  - :elephant: PostgreSQL, :seedling: MongoDB
+  - Django, NestJS, Angular
+  - :snake: Python, JavaScript, Typescript
   - 🔀 Nginx or Traefik
   - 🐳 Docker
   - 🦾 Linux, I do not like 🪟/🍏
