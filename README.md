@@ -4,7 +4,7 @@
 - 🌱 I’m obsessivly in learning mode:
   - Blockchain and its family
   - Nginx and Traefik
-  - C++
+  - Japanese and Germany
 - 👯 I’m looking to collaborate on a project in areas where I am studying
 - 🤔 I’m looking for help with getting a job offer from a company based in Germany. Please contact me if you can help me with it
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
@@ -23,4 +23,4 @@
     - Work: [kasir[dot]barati[at]gmail[dot]com](mailto:kasir.barati@gmail.com)
     - Personal [m[dot]jawad[dot]b[dot]khorasani[at]gmail[dot]com](mailto:m.jawad.b.khorasani@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Seeking Importality and being like a God.
+- ⚡ Fun fact: Seeking Importality and being like a God but still a religous person.
