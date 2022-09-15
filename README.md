@@ -10,7 +10,7 @@
   - TDD
   - Typescript (codewars)
   - Trunk-based Development
-  - :jp: Japanese and :de: Germany
+  - :jp: 日本語 and :de: Deutsch
 - 👯 I’m looking to collaborate on a project in areas where I am studying
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
