@@ -19,7 +19,8 @@
   - :snake: Python, JavaScript, Typescript
   - 🔀 Nginx
   - 🐳 Docker
-  - 🦾 Linux, I do not like 🪟/🍏
+  - 🦾 Linux
+  - Ansible
 - 📫 How to reach me:
   - LinkedIn [kasir-barati](https://www.linkedin.com/in/kasir-barati/)
   - Twitter [kasir_barati](https://twitter.com/kasir_barati)
