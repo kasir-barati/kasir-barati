@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A short bio: From Afghanistan, raised in Iran, Moved to Munich, Germany in 30.11.2022. Chatty, love to experience. Ready to accept any catastrophe (TBH not too sure)
+
 - 🔭 I’m currently working on myself and my skills
 - Goals for now:
   - Learn :jp: 日本語 and :de: Deutsch
