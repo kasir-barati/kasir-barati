@@ -5,7 +5,7 @@ A short bio: From Afghanistan, raised in Iran, Moved to Munich, Germany in 30.11
 - 🔭 I’m currently working on myself and my skills
 - Goals for now:
   - Learn :jp: 日本語 and :de: Deutsch
-  - Study in university if possible in Germany in Electronic field or maybe in IT
+  - Not screw up and try to acheive what I need at this moment
 - 🌱 I’m obsessivly in learning mode:
   - Terraform
   - React
