@@ -5,7 +5,7 @@ A short bio: From Afghanistan, raised in Iran, Moved to Munich, Germany in 30.11
 - 🔭 I’m currently working on myself and my skills
 - Goals for now:
   - Learn :jp: 日本語 and :de: Deutsch
-  - Not screw up and try to acheive what I need at this moment
+  - Need a new opportunity since the recent layoff in ClimatePartner separated him from his lovely colleagues
 - 🌱 I’m obsessivly in learning mode:
   - Terraform
   - React
