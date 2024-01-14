@@ -4,15 +4,15 @@ A short bio: From Afghanistan, raised in Iran, Moved to Munich, Germany in 30.11
 
 - 🔭 I’m currently working on myself and my skills
 - My aims for 07.03.2024:
-  - Learn :de: Deutsch to a B1 and :jp: 日本語 to N4 or N3 if possible 
+  - Learn :de: Deutsch to A2
   - ⛩️💍
 - 🌱 I’m obsessivly in learning mode:
   - Terraform
   - React
   - Scrum
   - TDD
-  - Typescript (codewars)
-  - Trunk-based Development
+  - Typescript
+  - :jp: 日本語
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
   - :elephant: PostgreSQL, :seedling: MongoDB
