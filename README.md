@@ -6,14 +6,15 @@ I take ownership of my work, exemplified by my initiative to teach my brother HT
 
 My curiosity drives me to explore new challenges and opportunities, making me a reliable partner for venturing into uncharted territories in the tech world. Let's embark on the adventure together!
 
-- 🔭 I’m currently working on myself and my skills
+- 🔭 I'm currently working on myself and my skills.
 - My current objectsives are:
-  - Learning Deutsch(:de):, にほんご（🇯🇵）.
-  - Learning AWS.
-  - Teaching HTML/CSS to my younger brother.
-  - Focusong on NodeJS and backend development.
-  - Building my Python skills.
-  - And of course staying in touch with what's happening in AI.
+  - [ ] Learning Deutsch(:de):, にほんご（🇯🇵）.
+  - [ ] Learning AWS.
+  - [ ] Try [Hyprland desktop](https://hyprland.org/).
+  - [X] Teaching HTML/CSS to my younger brother.
+  - [ ] Focusong on NodeJS and backend development.
+  - [ ] Building my Python skills.
+  - [ ] And of course staying in touch with what's happening in AI.
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
   - :elephant: PostgreSQL, :seedling: MongoDB
