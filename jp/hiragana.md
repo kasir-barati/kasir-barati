@@ -40,9 +40,12 @@ No need to print it out necessarily!
 10. Learn たちつてと pronunciations.
 11. Exercise at least 5 times あいうえお + かきくけこ + さしすせそ + たちつてと [here][kana-exercise].
 12. [Worksheet](https://docs.google.com/document/d/12IIGe4lP212Twq3DSnhNzf6u8mVwYWoXLAEuG1DH1Js/edit?tab=t.0).
+13. Learn なにぬねの + はひふへほ pronunciation.
+14. Practice なにぬねの + はひふへほ [here][kana-exercise] at least 5 times.
+15. [Worksheet](https://docs.google.com/document/d/1x4bretsJKt7R_zWh9a64aRK4qiY-JU6qYQe-68Qp-WM/edit?tab=t.0).
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
 https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
 
-TK: When you've completed everything and feel like you can recall all 20 of these kana, move on to the next section. Now it's time to try ten at a time. You're getting better at this, after all!
+TK: Not quite ten in this set (before the exercises), but close enough. Let's start with the "M-column."
