@@ -43,9 +43,12 @@ No need to print it out necessarily!
 13. Learn なにぬねの + はひふへほ pronunciation.
 14. Practice なにぬねの + はひふへほ [here][kana-exercise] at least 5 times.
 15. [Worksheet](https://docs.google.com/document/d/1x4bretsJKt7R_zWh9a64aRK4qiY-JU6qYQe-68Qp-WM/edit?tab=t.0).
+16. Learn まみむめも + やゆよ pronunciation.
+17. Practice あいうえお + かきくけこ + さしすせそ + たちつてと + なにぬねの + はひふへほ + まみむめも + やゆよ [here][kana-exercise] at least 5 times.
+18. [Worksheet](https://docs.google.com/document/d/1235hPLUNyaiyPf--_1jkrv9wpcVXLwnPw3ACx4KBIRQ/edit?tab=t.0).
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
 https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
 
-TK: Not quite ten in this set (before the exercises), but close enough. Let's start with the "M-column."
+TK: When you're all done, it's time to tackle the last "main hiragana" section. You're almost there! Not so hard, right?
