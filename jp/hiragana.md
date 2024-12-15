@@ -46,9 +46,12 @@ No need to print it out necessarily!
 16. Learn まみむめも + やゆよ pronunciation.
 17. Practice あいうえお + かきくけこ + さしすせそ + たちつてと + なにぬねの + はひふへほ + まみむめも + やゆよ [here][kana-exercise] at least 5 times.
 18. [Worksheet](https://docs.google.com/document/d/1235hPLUNyaiyPf--_1jkrv9wpcVXLwnPw3ACx4KBIRQ/edit?tab=t.0).
+19. [Learn how to pronounce らりるれろ here](https://youtu.be/V2wzUuGm7yw), after that you need to learn わをん.
+20. Exercise all main Kana [here][kana-exercise].
+21. [Worksheet](https://docs.google.com/document/d/1fKOrg5X5UkyZ6EhOMRa0qlr2jtVwrLQSHYk1iL9-ovQ/edit?tab=t.0).
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
 https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
 
-TK: When you're all done, it's time to tackle the last "main hiragana" section. You're almost there! Not so hard, right?
+TK: Dakuten & Han-Dakuten
