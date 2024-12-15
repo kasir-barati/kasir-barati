@@ -28,6 +28,8 @@ No need to print it out necessarily!
 
 ![The ひらがな "mnemonic" chart](./assets/hiragana-mnemonic-chart-by-tofugu.jpg)
 
+### Basics
+
 1. Learn あいうえお pronunciations here: https://youtu.be/O-3opZIjwr0
 2. Exercise [here][kana-exercise]
 3. [Worksheet](https://docs.google.com/document/d/1muxTHS0NqIzKPUStedahoTRbvQRlUlQi0J3XMPi-DJE/edit?tab=t.0).
@@ -50,8 +52,40 @@ No need to print it out necessarily!
 20. Exercise all main Kana [here][kana-exercise].
 21. [Worksheet](https://docs.google.com/document/d/1fKOrg5X5UkyZ6EhOMRa0qlr2jtVwrLQSHYk1iL9-ovQ/edit?tab=t.0).
 
+### Dakuten
+
+This double quotation like symbol: ゛
+
+1. がぎぐげご. K -> G
+2. ざじずぜぞ. S -> Z (exception: shi -> ji).
+3. Questions:
+   - Do you remember what the K-column converts to?
+   - Do you remember what the S-column converts to?
+   - What is the exception in the S-column?
+4. だぢづでど. T -> D
+   - Exception:
+     - chi -> ji, tsu -> zu.
+     - **Pronounced exactly like じ and ず**.
+   - When typing we must type di, and du.
+5. Questions:
+   - Do you remember what the K-column changes to?
+   - Do you remember what the S-column changes to?
+   - What about the T-column?
+   - Do you remember the three exceptions we've run into so far?
+6. ばびぶべぼ H -> B.
+7. ぱぴぷぺぽ H -> P.
+   - Han-dakuten: ゜.
+   - Only applies to these Kanas.
+8. Recall the mnemonics we used for the following (and remember what each converts to):
+   - か -> ?
+   - さ -> ?
+   - た -> ?
+   - は -> ?
+   - は -> ?
+9. [Practice only Dakuten][kana-exercise], drill those for 5-10 minutes.
+
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
 https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
 
-TK: Dakuten & Han-Dakuten
+TK: Now, add in all the other kana, mixed in with the dakuten kana.
