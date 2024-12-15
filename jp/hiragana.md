@@ -52,7 +52,7 @@ No need to print it out necessarily!
 20. Exercise all main Kana [here][kana-exercise].
 21. [Worksheet](https://docs.google.com/document/d/1fKOrg5X5UkyZ6EhOMRa0qlr2jtVwrLQSHYk1iL9-ovQ/edit?tab=t.0).
 
-### Dakuten
+### だくてん -- Dakuten
 
 This double quotation like symbol: ゛
 
@@ -82,7 +82,7 @@ This double quotation like symbol: ゛
    - た -> ?
    - は -> ?
    - は -> ?
-9. [Practice only Dakuten][kana-exercise], drill those for 5-10 minutes.
+9. [Practice only だくてん][kana-exercise], drill those for 5-10 minutes.
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
