@@ -30,7 +30,7 @@ No need to print it out necessarily!
 
 ### Basics
 
-1. Learn あいうえお pronunciations here: https://youtu.be/O-3opZIjwr0
+1. Learn あいうえお pronunciations [here](https://youtu.be/O-3opZIjwr0).
 2. Exercise [here][kana-exercise]
 3. [Worksheet](https://docs.google.com/document/d/1muxTHS0NqIzKPUStedahoTRbvQRlUlQi0J3XMPi-DJE/edit?tab=t.0).
 4. Learn かきくけこ pronunciations.
