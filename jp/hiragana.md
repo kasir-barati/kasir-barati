@@ -64,9 +64,12 @@ This double quotation like symbol: ゛
    - What is the exception in the S-column?
 4. だぢづでど. T -> D
    - Exception:
-     - chi -> ji, tsu -> zu.
-     - **Pronounced exactly like じ and ず**.
-   - When typing we must type di, and du.
+     - chi -> ji:
+       - **Pronounced exactly like じ**.
+       - When typing we must type 'di'.
+     - tsu -> zu:
+       - **Pronounced exactly like ず**.
+       - When typing we must type 'du'.
 5. Questions:
    - Do you remember what the K-column changes to?
    - Do you remember what the S-column changes to?
@@ -83,9 +86,35 @@ This double quotation like symbol: ゛
    - は -> ?
    - は -> ?
 9. [Practice only だくてん][kana-exercise], drill those for 5-10 minutes.
+10. [Practice Main かな + だくてん　かな][kana-exercise].
+11. [Worksheet](https://docs.google.com/document/d/1yAShOorugSANSMILnPfJjPnFOPCAKKN53usq5Jo-YuQ/edit?tab=t.0).
+
+### き, し, ち, に, ひ, み, り, ぎ, じ, ぢ, び, ぴ + ゃ, ゅ, ょ
+
+1. Drop the I-sound that comes from the い-row かな.
+
+   - E.g.:
+     - きゃ: KIYA -> KYA.
+     - じょ: JIYO -> JYO.
+   - **NOTE**:
+
+     - しゃ: SHIYA -> SHA!
+     - しゅ: SHIYU -> SHU!
+     - しょ: SHIYO -> SHO!
+
+     Same for ちゃ, ちゅ, ちょ,　じゃ, じゅ, じょ, ぢゃ, ぢゅ, ぢょ.
+
+2. [Worksheet](https://docs.google.com/document/d/1Sy6zrBkkr9JVCwix-dTMSPVAl4cW5Z5jHTg-peiwbv8/edit?tab=t.0).
+
+> [!TIP]
+>
+> To type:
+>
+> - Small や, ゆ, or よ you need to put an 'x' in front of it.
+> - ぢゃ: dya (same rule for its siblings, e.g. cya for ちゃ or jyo for じょ).
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 
 https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
 
-TK: Now, add in all the other kana, mixed in with the dakuten kana.
+TK: Combination Hiragana Practice
