@@ -113,8 +113,41 @@ This double quotation like symbol: ゛
 > - Small や, ゆ, or よ you need to put an 'x' in front of it.
 > - ぢゃ: dya (same rule for its siblings, e.g. cya for ちゃ or jyo for じょ).
 
+### っ -- Small Version of TSU (つ)
+
+- Adds a quick little pause before a consonant sound in a word.
+- The consonant after it is written twice in ろまんじ.
+- E.g.
+
+  | かな                | ろまんじ                  |
+  | ------------------- | ------------------------- |
+  | したい -> しったい. | shi**t**ai -> shi**tt**ai |
+  | かこ -> かっこ      | ka**k**o -> ka**kk**o     |
+  | いた -> いった      | i**t**a -> i**tt**a       |
+  | いしょ -> いっしょ  | i**s**ho -> i**ss**ho     |
+
+### Homework for the next couple of weeks
+
+- Do not do them all in one week or right now.
+- Spread them through several weeks.
+- They're real sentences.
+- Put the ろまんじ above the かな and read each かな out loud.
+- Worksheets:
+
+  [#1](https://docs.google.com/document/d/1_NzKK3N6l5owqEWkmOaKTRzxiRhO11MVjcharOluSW8/edit?tab=t.0).
+
+  [#2](https://docs.google.com/document/d/1oihMWqHCbUnMkSc3HevuxGHmktZ2QY2yTcUqnUWQ81w/edit?tab=t.0).
+
+### Still Wanna Drill Some More
+
+- [Practice in our old friend][kana-exercise].
+- [Install RealKana on your cellphone](https://realkana.com/).
+- [Anki to download ひらがな deck](https://apps.ankiweb.net/).
+- Open some にほんご website and start reading all かな characters you can put your hands on :grin:, here are some suggestions:
+  - [NHK やさしいことばニュース NEWS WEB EASY](https://www3.nhk.or.jp/news/easy/).
+
+> [!IMPORTANT]
+>
+> After learning ひらがな to a moderately slow level, you don't have to keep drilling it until it's fast. In fact, you can just move on to something else. ひらがな will keep popping up just about everywhere, so by learning something new you're actually reviewing the ひらがな at the same time!
+
 [kana-exercise]: https://kana-quiz.tofugu.com/
-
-https://www.tofugu.com/japanese/learn-hiragana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
-
-TK: Combination Hiragana Practice
