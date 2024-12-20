@@ -6,7 +6,31 @@
 >
 > What feels slow now is actually speed later on.
 
-## ひらがな -- Hiragana
+## 0. Pronunciation
+
+<table>
+  <thead>
+    <tr>
+      <th>Deadline</th>
+      <th>Learning plan</th>
+      <th>Target</th>
+      <th>Finished</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><time>1 Hour</time></td>
+      <td>Just kicking off building a good foundation for good pronunciation.</td>
+      <td>
+        Have a good
+        <a href="./pronunciation.md">understanding of the dynamics of pronunciation in Japanese</a>.
+      </td>
+      <td><time>16.12.2024</time></td>
+    </tr>
+  </tbody>
+</table>
+
+## 1. ひらがな -- Hiragana
 
 <table>
   <thead>
