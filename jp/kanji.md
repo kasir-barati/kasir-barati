@@ -18,7 +18,7 @@ Why are there two ways to read:
 
 - **Almost** all 漢字 will have:
 
-  - A Chinese way of reading it (**derived** from Chinese): <font color="orangered">音読み</font> -- おんよみ.
+  - A Chinese way of reading it (**derived** from Chinese): ![on'yomi](https://img.shields.io/static/v1?label=&message=音読み&color=orangered) -- おんよみ.
   - A Japanese way of reading it (indigenous Japanese): 訓読み -- こんよみ.
 
   | Kanji | Meaning  | <font color="orangered">音読み</font> | 訓読み |
