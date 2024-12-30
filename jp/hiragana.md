@@ -52,7 +52,7 @@ No need to print it out necessarily!
 20. Exercise all main Kana [here][kana-exercise].
 21. [Worksheet](https://docs.google.com/document/d/1fKOrg5X5UkyZ6EhOMRa0qlr2jtVwrLQSHYk1iL9-ovQ/edit?tab=t.0).
 
-### だくてん -- Dakuten
+### 濁点 -- だくてん
 
 This double quotation like symbol: ゛
 
