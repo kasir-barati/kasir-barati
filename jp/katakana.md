@@ -1,4 +1,4 @@
-# Katakana
+# カタカナ - Katakana
 
 - Used for:
   - Transcribing foreign words.
@@ -15,11 +15,11 @@
 - Reading katakana may not come as quickly as it did with ひらがな. ひらがな and 漢字 are just more useful right now, so spend your limited time and energy there.
 - Once you can read each katakana character - no matter how slowly - move on.
 
-## Katakana chart
+## カタカナ chart
 
 ![katakana chart](./assets/tofugu-katakana-chart.jpg)
 
-## Katakana mnemonic chart
+## カタカナ mnemonic chart
 
 ![katakana mnemonic chart](./assets/tofugu-katakana-mnemonic-chart.jpg)
 
@@ -168,9 +168,9 @@ If you know ひらがな's 濁点, you know カタカナ's 濁点.
       - E.g. ディズニーランド for Disneyland.
       - Type: DHI.
 
-TK: Additional Practice
+### Additional Practice
 
-https://www.tofugu.com/japanese/learn-katakana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese
+- [仮名 (かな) exercise][kana-exercise].
 
 [kana-exercise]: https://kana-quiz.tofugu.com/
 [katakana-mnemonic]: https://www.tofugu.com/japanese/learn-katakana/?utm_source=Tofugu&utm_medium=Article&utm_campaign=Learn%20Japanese

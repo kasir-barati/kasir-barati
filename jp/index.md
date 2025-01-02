@@ -25,7 +25,7 @@
         Have a good
         <a href="./pronunciation.md">understanding of the dynamics of pronunciation in Japanese</a>.
       </td>
-      <td><time>16.12.2024</time></td>
+      <td>Unknown!</td>
     </tr>
   </tbody>
 </table>
@@ -53,10 +53,42 @@
   </tbody>
 </table>
 
+## 1. 漢字 -- Kanji
+
+<table>
+  <thead>
+    <tr>
+      <th>Deadline</th>
+      <th>Learning plan</th>
+      <th>Target</th>
+      <th>Finished</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><time>23.03.2025</time></td>
+      <td></td>
+      <td>
+        Learn 漢字's most important English meaning, their most important 日本語 reading up to the beginner level + カタカナ (Katakana):
+        <ul>
+          <li>
+            Learn 20-30 漢字 and ~100 vocabulary words that use those 漢字 (and only those 漢字) each week.
+          </li>
+        </ul>
+      </td>
+      <td>
+        Completed カタカナ by <time>02.01.2025</time>
+        <hr />
+        <time>n/a</time>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Ref
 
 - https://www.tofugu.com/learn-japanese/
 
-TK -- Do it: Learn How to Read Hiragana
+TK:
 
 https://www.tofugu.com/learn-japanese/

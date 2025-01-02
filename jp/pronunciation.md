@@ -2,10 +2,10 @@
 
 - Spend an hour going through this doc.
 - The mouth shapes, the sounds, the tongue positions.
-- Optional prerequisite: ひらがな and some katakana.
+- Optional prerequisite: ひらがな and some カタカナ.
 - Written Japanese, is made up of three parts:
   - ひらがな (hiragana).
-  - Katakana.
+  - カタカナ (Katakana).
   - Kanji.
 - Hiragana and katakana are phonetic syllabaries:
   1. The symbols represent sounds.
