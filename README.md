@@ -10,21 +10,17 @@ Curious like a cat, and that’s why you can trust in me when you wanna explore 
   - [ ] Learning AWS.
   - [x] Teaching HTML/CSS to my younger brother.
   - [ ] Focusing on NodeJS & backend development.
-  - [-] Teaching Python to my older sister.
+  - [x] Teaching Python to my older sister.
   - [ ] And of course staying in touch with what's happening in AI.
-- 💬 Ask me about JS/TS, Docker, Linux, Node.js
+- 💬 Ask me about JS/TS, Docker, Linux, NodeJS
 - 🧑‍💻 Basically this is my beloved stack:
   - :elephant: PostgreSQL, :seedling: MongoDB
   - NestJS, NextJS (ReactJS)
-  - :snake: JavaScript, Typescript
+  - :snake: Python, JavaScript, Typescript
   - 🐳 Docker, Terraform, and CI/CD
   - Linux, and AWS
 - 📫 How to reach me:
   - LinkedIn [kasir-barati](https://www.linkedin.com/in/kasir-barati/)
-  - X [kasir_barati](https://x.com/kasir_barati)
-  - Stackoverflow [kasir-barati](https://stackoverflow.com/users/8784518/kasir-barati)
-  - Facebook [kasirbarati](https://www.facebook.com/kasirbarati)
   - Mail:
     - Work: [kasir[.]barati[@]gmail[.]com](mailto:kasir.barati@gmail.com)
     - Personal [m[dot]jawad[dot]b[dot]khorasani[at]gmail[dot]com](mailto:m.jawad.b.khorasani@gmail.com)
-- ⚡ Fun fact: `unknown`
