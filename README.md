@@ -1,24 +1,20 @@
 ### Hi there 👋
 
-A Fullstack dev with love for cutting edge technologies and on his journey to learn and teach. Having a can-do attitude and being industrious gave me the courage to question the status quo. I take ownership for what I do like when I decided to teach my brother HTML/CSS. A self-motivated, self-disciplined, and self-organized nerd with big ideas.
+I’m a software engineer who loves cutting-edge tech and lives in learning mode—then turning around to teach what I’ve learned. I’m self-motivated, disciplined, and organized, and I take real ownership of my work. I question the status quo, experiment, and keep moving forward—so if you want to explore a new “dungeon,” I’m the person you can trust to go with you.
 
-Curious like a cat, and that’s why you can trust in me when you wanna explore a new dungeon :)A Fullstack dev with love for cutting edge technologies and on his journey to learn and teach. Having a can-do attitude and being industrious gave me the courage to question the status quo. I take ownership for what I do like when I decided to teach my brother HTML/CSS. A self-motivated, self-disciplined, and self-organized nerd with big ideas. Curious like a cat, and that’s why you can trust in me when you wanna explore a new dungeon :)
-
-- 🔭 I'm currently working on myself and my skills.
 - My current objectsives are:
-  - [ ] Learning Deutsch(:de):, にほんご（🇯🇵）.
-  - [ ] Learning AWS.
-  - [x] Teaching HTML/CSS to my younger brother.
-  - [ ] Focusing on NodeJS & backend development.
-  - [x] Teaching Python to my older sister.
-  - [ ] And of course staying in touch with what's happening in AI.
-- 💬 Ask me about JS/TS, Docker, Linux, NodeJS
+  - [ ] Learning Deutsch 🇩🇪.
+  - [ ] Learning how to develop a fault-tolerant microservice architecture.
+  - [ ] Designing orthogonal, loosely coupled systems (this is applicable to also how I code).
+  - [ ] Focusing on backend development.
+  - [ ] Incorporating AI agents and chatbots while I code.
+- 💬 Ask me about JS/TS, Python, Docker, Linux, NodeJS, and microservices.
 - 🧑‍💻 Basically this is my beloved stack:
-  - :elephant: PostgreSQL, :seedling: MongoDB
-  - NestJS, NextJS (ReactJS)
-  - :snake: Python, JavaScript, Typescript
-  - 🐳 Docker, Terraform, and CI/CD
-  - Linux, and AWS
+  - 🐘 PostgreSQL, 🌱 MongoDB.
+  - NestJS.
+  - 🐍 Python, JavaScript/Typescript.
+  - 🐳 Docker, Terraform, and CI/CD.
+  - Linux.
 - 📫 How to reach me:
   - LinkedIn [kasir-barati](https://www.linkedin.com/in/kasir-barati/)
   - Mail:
