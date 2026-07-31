@@ -4,6 +4,76 @@ I’m a software engineer who loves cutting-edge tech and lives in learning mode
 
 - My current objectsives are:
   - [ ] Learning Deutsch 🇩🇪.
+        <details>
+        <summary>Some resources you can use</summary>
+        <table>
+          <thead>
+            <tr>
+              <th>Resource</th>
+              <th>My Take</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Deutsche Welle
+                <ul>
+                  <li><a href="https://learngerman.dw.com/de/anf%C3%A4nger/s-62079021">A1/A2</a></li>
+                  <li><a href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033">B1/B2</li>
+                  <li><a href="https://learngerman.dw.com/de/alltagsdeutsch/s-56744441">C1/C2</a></li>
+              </td>
+              <td>Good, though I am not sure about A1 and A2. I tried them and honestly I do NOT believe if you know 0 German you can make sense of them.</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://mein-deutschbuch.de/startseite.html">Deutsch lernen bei mein-deutschbuch.de</a>
+              </td>
+              <td>Structured site with examples for grammar, vocabulary use, exercises, etc.</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://forvo.com/languages/de/">forvo.com</a>
+                <br />
+                <a href="https://forvo.com/guides/useful_phrases_in_german/">Useful phrases in German/</a>
+              </td>
+              <td>German pronunciation dictionary and useful travel phrases</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://coffeebreaklanguages.com/coffeebreakgerman/">Coffee Break German/</a>
+              </td>
+              <td>Podcasts for learning German -- my favorite when I just want to listen and not sit and study</td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.newsinslowgerman.com/">News In Slow German</a>
+              </td>
+              <td>Podcasts for learning German.</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.zdf.de/">zdf.de</a></td>
+              <td>German public service television</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.ard.de/">ard.de</a></td>
+              <td>German public service television, have not used it.</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.kika.de/videos/kindervideos-videos-fuer-kinder-100">kika.de</a></td>
+              <td>The children's channel of ARD and ZDF</td>
+            </tr>
+            <tr>
+              <td><a href="https://learnoutlive.com/blog/">You can learn by reading stories here!</a></td>
+              <td>Blog with links to various online resources</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.verbling.com">verbling</a></td>
+              <td>Find a native German teacher</td>
+            </tr>
+          </tbody>
+        </table>
+        <a href="https://www.fluentu.com/blog/german/online-german-lessons/">You can find more resources here</a>
+        </details>
   - [ ] Learning how to develop a fault-tolerant microservice architecture.
   - [ ] Designing orthogonal, loosely coupled systems (this is applicable to also how I code).
   - [ ] Focusing on backend development.
