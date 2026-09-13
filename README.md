@@ -81,10 +81,3 @@ See [more resources here](https://www.fluentu.com/blog/german/online-german-less
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kasir-barati&theme=tokyonight&hide_border=true" alt="Kasir's GitHub streak" height="165"/>
 
 </div>
-
-## 📫 How to Reach Me
-
-- LinkedIn: [kasir-barati](https://www.linkedin.com/in/kasir-barati/)
-- Mail:
-  - Work: [kasir[.]barati[@]gmail[.]com](mailto:kasir.barati@gmail.com)
-  - Personal: [m[dot]jawad[dot]b[dot]khorasani[at]gmail[dot]com](mailto:m.jawad.b.khorasani@gmail.com)
