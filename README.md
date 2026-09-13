@@ -14,7 +14,7 @@
 
 ---
 
-![Ponos-OS](https://capsule-render.vercel.app/api?type=rounded&color=6E56CF&height=100&section=header&text=🚀%20Ponos-OS&fontSize=36&fontColor=ffffff&fontAlignY=65)
+![Ponos-OS](https://capsule-render.vercel.app/api?type=rounded&color=4A3A76&height=50&section=header&text=🚀%20Ponos-OS&fontSize=26&fontColor=ffffff&fontAlignY=55)
 
 I'm building **[Ponos-OS](https://github.com/Ponos-OS)**, it is gonna be about wellness, healthier live style, and helping you to be a better version of yourself.
 
