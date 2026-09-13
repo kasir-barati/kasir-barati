@@ -14,17 +14,11 @@
 
 ---
 
-## 🚀 Ponos-OS
+![Ponos-OS](https://capsule-render.vercel.app/api?type=rounded&color=6E56CF&height=100&section=header&text=🚀%20Ponos-OS&fontSize=36&fontColor=ffffff&fontAlignY=65)
 
-I'm building **[Ponos-OS](https://github.com/Ponos-OS)** — come check it out, star the repos, and follow along.
+I'm building **[Ponos-OS](https://github.com/Ponos-OS)**, it is gonna be about wellness, healthier live style, and helping you to be a better version of yourself.
 
-<div align="center">
-
-[![Ponos-OS](https://github-readme-stats.vercel.app/api?username=Ponos-OS&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true)](https://github.com/Ponos-OS)
-
-</div>
-
-> 👉 **[github.com/Ponos-OS](https://github.com/Ponos-OS)** — take a look, contributions and feedback are welcome.
+> 👉 **[github.com/Ponos-OS](https://github.com/Ponos-OS)**, take a look, if you like any repo give it a star, contributions and feedback are welcome.
 
 ---
 
@@ -84,7 +78,7 @@ See [more resources here](https://www.fluentu.com/blog/german/online-german-less
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kasir-barati&show_icons=true&theme=tokyonight&hide_border=true" alt="Kasir's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=kasir-barati&theme=tokyonight&hide_border=true" alt="Kasir's GitHub streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kasir-barati&theme=tokyonight&hide_border=true" alt="Kasir's GitHub streak" height="165"/>
 
 </div>
 
