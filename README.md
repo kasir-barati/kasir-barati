@@ -4,7 +4,7 @@
 
 ### Backend-focused Software Engineer · Distributed Systems · AI Agents
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+fault-tolerant+services;Designing+loosely+coupled+systems;Speaks+Python%2C+NodeJS%2C+JS/TS;Shipping+with+AWS%2C+Docker%2C+k8s%2C+Terraform;Currently+working+on+Ponos-OS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+fault-tolerant+services;Designing+loosely+coupled+systems;Speaks+Golang%2C+Python%2C+NodeJS;Shipping+with+AWS%2C+Docker%2C+k8s%2C+Terraform;Currently+working+on+Ponos-OS)](https://git.io/typing-svg)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
